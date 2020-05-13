@@ -17,8 +17,8 @@ Tendo como norte a utilização e potencial das informações fornecidas, temos 
 
 **Scrum Master:** Lucas Hiroaki Okazaki
 
-**Product Owner:** Guilherme Rodrigues Alves
+**Product Owner:** Henrique Kenji Nawa
 
-**Dev's:** Edilberto Savio Rodrigues, Henrique Kenji Nawa, Igor Soares da Silva e Matheus Andrade Prado de Azevedo
+**Dev's:** Edilberto Savio Rodrigues, Igor Soares da Silva e Matheus Andrade Prado de Azevedo
 
 
