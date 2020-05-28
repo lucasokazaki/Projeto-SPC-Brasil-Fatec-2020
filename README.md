@@ -32,13 +32,13 @@ Tendo como norte a utilização e potencial das informações fornecidas, temos 
   
   <li>Sprint 3
   
-  Nesta sprint, priorizamos a limpeza total dos dados e a apresentação de um esboço da interface gráfica, com o intuito de ilustrar melhor as ideias.
+  Nesta sprint, priorizamos a limpeza total dos dados (validação dos CNPJs, contabilização de dados nulos e verificação da data de vencimento), a visualização dos valores totais da remessa e recência das remessas de dados.
   
    Card de Requisitos: [Sprint 3](https://github.com/HenriqueNawa/Projeto-SPC-Brasil-Fatec-2020/tree/master/Cards%20de%20requisitos/Sprint%203)
   
   <li>Sprint 4
   
-  Priorizado o sesenvolvimento das funcionalidades da interface gráfica e aprimoramento dos dados que serão analidados, com o intuito de facilitar a interação com o usuário.
+  Priorizado o desenvolvimento das funcionalidades da interface gráfica e aprimoramento dos dados que serão analidados, com o intuito de facilitar a interação com o usuário.
   
   Card de Requisitos: [Sprint 4](https://github.com/HenriqueNawa/Projeto-SPC-Brasil-Fatec-2020/tree/master/Cards%20de%20requisitos/Sprint%204)
   
