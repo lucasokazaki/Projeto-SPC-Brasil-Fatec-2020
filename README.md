@@ -38,14 +38,13 @@ Tendo como norte a utilização e potencial das informações fornecidas, temos 
   
   <li>Sprint 4
   
-  Priorizado o desenvolvimento das funcionalidades da interface gráfica e aprimoramento dos dados que serão analidados, com o intuito de facilitar a interação com o usuário.
+  Organização dos dados das planihas e visualização gráfica.
   
   Card de Requisitos: [Sprint 4](https://github.com/HenriqueNawa/Projeto-SPC-Brasil-Fatec-2020/tree/master/Cards%20de%20requisitos/Sprint%204)
   
   <li>Sprint 5
   
-  Foco principal na segurança do sistema para cumprir a LGPD (Lei Geral de Proteção de Dados) e ajustes na interface gráfica para o total acesso do usuário a todas as funcionalidades desenvolvidas.
-  
+  Desenvolvimento da interface gráfica com as funcionalidades de cada gráfico.  
   Card de Requisitos: [Sprint 5](https://github.com/HenriqueNawa/Projeto-SPC-Brasil-Fatec-2020/tree/master/Cards%20de%20requisitos/Sprint%205)
   
   <li>Sprint 6
