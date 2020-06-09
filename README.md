@@ -13,6 +13,26 @@ Com a implementação do Cadastro Positivo, surgiu-se a necessidade de analisar 
 
 Tendo como norte a utilização e potencial das informações fornecidas, temos como premissa oferecer às áreas de negócios indicadores que possam fortalecer a tomada de decisão dos gestores, clientes e empresas que irão se utilizar dessas ferramentas aqui produzidas. Portanto, o foco será na utilização pela ponta comercial que precisa de meios mais diretos de análise dos clientes em seus mais diversos segmentos. 
 
+**<H2>Sobre o Produto</H2>**
+
+**_Área de Negócio:_** Marketing para ampliação de carteira de clientes
+
+**_Público Alvo:_** Bancos Digitais
+
+**_Problema:_** 
+
+Com o surgimento de novas instituições financeiras e a expansão de pagamentos online, surgiu-se o problema da alta concorrência entre eles.
+
+Notícias relacionadas aos problemas enfrentados pelos bancos digitais:
+
+* https://diariodocomercio.com.br/financas/novos-concorrentes-colocam-bancos-digitais-a-prova/
+
+* https://g1.globo.com/economia/noticia/2019/12/17/multiplicacao-de-competidores-criam-desafio-extra-para-bancos-digitais.ghtml
+
+**_Solução:_**
+
+Vista a alta demanda por pagamentos digitais e a concorrência, nossa solução está em gerar informações sobre os pagamentos realizados com cartões de crédito por meio de indicadores que qualificam os consumidores e mostrar por regiões (Sul, Sudeste, Norte, Nordeste e Centro-Oeste) como os consumidores se comportam em geral, assim avaliando as regiões como boas ou más regiões para captação de clientes em potencial.
+
 **<H2>Sprints</H2>**
 
 <ul>
