@@ -31,7 +31,7 @@ Notícias relacionadas aos problemas enfrentados pelos bancos digitais:
 
 **_Solução:_**
 
-Vista a alta demanda por pagamentos digitais e a concorrência, nossa solução está em gerar informações sobre os pagamentos realizados com cartões de crédito por meio de indicadores que qualificam os consumidores e mostrar por regiões (Sul, Sudeste, Norte, Nordeste e Centro-Oeste) como os consumidores se comportam em geral, assim avaliando as regiões como boas ou más regiões para captação de clientes em potencial.
+Vista a alta demanda por pagamentos digitais e a ampla concorrência gerada, nossa solução está em gerar informações sobre os pagamentos realizados com cartões de crédito por meio de indicadores que qualificam os consumidores e distribuir por regiões (Sul, Sudeste, Norte, Nordeste e Centro-Oeste) como os consumidores se comportam e assim ter uma visão das regiões e seu perfil, com o intuito de facilitar a área de marketing para a tomada de decisão na captação de clientes em potencial.
 
 **<H2>Sprints</H2>**
 
@@ -58,10 +58,8 @@ Vista a alta demanda por pagamentos digitais e a concorrência, nossa solução 
   
   <li>Sprint 4
   
-  Organização dos dados das planihas e visualização gráfica.
-  
-  Card de Requisitos: [Sprint 4](https://github.com/HenriqueNawa/Projeto-SPC-Brasil-Fatec-2020/tree/master/Cards%20de%20requisitos/Sprint%204)
-  
+  Reorganização do projeto e revisão das entregas, visando melhorar a estrutura e o entendimento do objetivo do produto (foco em marketing para ampliação da carteira de clientes na área de crédito), esboço do diagrama de caso de uso, análise dos dados dos clientes, visando entender a ligação entre as planilhas e visualização do relacionamento entre os dados por meio de matriz de correlação.
+    
   <li>Sprint 5
   
   Desenvolvimento da interface gráfica com as funcionalidades de cada gráfico.  
