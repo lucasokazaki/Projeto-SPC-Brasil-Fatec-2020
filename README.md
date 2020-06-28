@@ -13,7 +13,30 @@ Com a implementação do Cadastro Positivo, surgiu-se a necessidade de analisar 
 
 Tendo como norte a utilização e potencial das informações fornecidas, temos como premissa oferecer às áreas de negócios indicadores que possam fortalecer a tomada de decisão dos gestores, clientes e empresas que irão se utilizar dessas ferramentas aqui produzidas. Portanto, o foco será na utilização pela ponta comercial que precisa de meios mais diretos de análise dos clientes em seus mais diversos segmentos. 
 
+**<H2>Software</H2>**
+
+
+<ul>
+ <li>Back-end</li>
+
+Desenvolvido em Python, versão 3.7.4 e Node.js para a integração com a interface gráfica
+
+
+Bibliotecas utilizadas:
+
+**Pandas:** Utilizada para a análise e estrutura de dados.
+
+**Plotly:** Utilizada para a criação de gráficos interativos
+
+<li>Front-end</li>
+Framework Electron para o desenvolvimento de aplicações para desktop.
+
+  
+ </ul>
+
 **<H2>Sobre o Produto</H2>**
+
+  
 
 **_Área de Negócio:_** Marketing para ampliação de carteira de clientes
 
