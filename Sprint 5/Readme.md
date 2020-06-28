@@ -22,7 +22,7 @@ Cálculo: quanto maior o déficit de atraso menor a pontuação.
 
 <li>Acima de 14 dias de atraso = peso 1</li> 
 
-Por meio do indicador de pontualidade, classificamos os clientes conforme todos os pagamentos efetuados de forma individual. Assim, pontuando confome a data de pagamento, gerando uma média sobre o total de pagamentos realizados, para assim qualificar os clientes e gerar uma pontuação geral para os grupos de regiões do Brasil.
+Por meio do indicador de pontualidade, classificamos os clientes conforme todos os pagamentos efetuados de forma individual. Assim, pontuando confome a data de pagamento, gerando uma média sobre o total de pagamentos realizados, para assim qualificar os clientes e gerar uma pontuação geral para os grupos de regiões do Brasil, com o intuito de indicar quais as regiões com melhor índice de pontualidade no pagamento por cartão de crédito e qual o perfil deste consumidor.
 
 ![IndicadorPontualidade](https://github.com/HenriqueNawa/Projeto-SPC-Brasil-Fatec-2020/blob/master/Gif/Indicador_pontualidade.png)
 
