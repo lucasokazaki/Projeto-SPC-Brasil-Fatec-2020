@@ -33,6 +33,50 @@ Framework Electron para o desenvolvimento de aplicações para desktop.
 
   
  </ul>
+ 
+ <h2>Instalação das ferramentas</h2>
+ 
+ <ul>
+  
+  <li>Editor de código-fonte VSCode</li>
+  
+  
+  ```bash
+  https://code.visualstudio.com/download
+  ```
+  
+ <li>Python</li>
+
+```bash
+https://www.python.org/downloads/
+```
+
+<li>NodeJS</li>
+
+```bash
+https://nodejs.org/en/download/
+```
+
+<li>Electron</li>
+
+```bash
+npm install electron -g
+```
+
+<li>Pandas</li>
+
+```bash
+pip install pandas
+```
+
+<li>Plotly</li>
+
+```bash
+$ pip install plotly==4.8.2
+```
+
+</ul>
+
 
 **<H2>Sobre o Produto</H2>**
 
