@@ -29,7 +29,7 @@ Bibliotecas utilizadas:
 **Plotly:** Utilizada para a criação de gráficos interativos
 
 <li>Front-end</li>
-Framework Electron para o desenvolvimento de aplicações para desktop.
+Framework Tkinter para o desenvolvimento da interface gráfica do sistema.
 
   
  </ul>
@@ -57,10 +57,10 @@ https://www.python.org/downloads/
 https://nodejs.org/en/download/
 ```
 
-<li>Electron</li>
+<li>Tkinter</li>
 
 ```bash
-npm install electron -g
+pip install tkinter
 ```
 
 <li>Pandas</li>
