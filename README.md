@@ -19,7 +19,7 @@ Tendo como norte a utilização e potencial das informações fornecidas, temos 
 <ul>
  <li>Back-end</li>
 
-Desenvolvido em Python, versão 3.7.4 e Node.js para a integração com a interface gráfica
+Desenvolvido em Python, versão 3.7.4.
 
 
 Bibliotecas utilizadas:
@@ -29,7 +29,7 @@ Bibliotecas utilizadas:
 **Plotly:** Utilizada para a criação de gráficos interativos
 
 <li>Front-end</li>
-Framework Tkinter para o desenvolvimento da interface gráfica do sistema.
+Tkinter para o desenvolvimento da interface gráfica do sistema.
 
   
  </ul>
@@ -130,14 +130,12 @@ Vista a alta demanda por pagamentos digitais e a ampla concorrência gerada, nos
   <li>Sprint 5
   
   Desenvolvimento da interface gráfica com as funcionalidades de cada gráfico.  
-  Card de Requisitos: [Sprint 5](https://github.com/HenriqueNawa/Projeto-SPC-Brasil-Fatec-2020/tree/master/Cards%20de%20requisitos/Sprint%205)
-  
+    
   <li>Sprint 6
   
-  Ajustes finais do projeto.
+  Desenvolvimento da interface gráfica utilizando Tkinter e correções no sistema.
   
-  Card de Requisitos: [Sprint 6](https://github.com/HenriqueNawa/Projeto-SPC-Brasil-Fatec-2020/tree/master/Cards%20de%20requisitos/Sprint%206)
-  
+    
 </ul>
 
 
@@ -147,6 +145,6 @@ Vista a alta demanda por pagamentos digitais e a ampla concorrência gerada, nos
 
 **Product Owner:** Henrique Kenji Nawa
 
-**Dev's:** Edilberto Savio Rodrigues, Igor Soares da Silva e Matheus Andrade Prado de Azevedo
+**Dev's:** Igor Soares da Silva e Matheus Andrade Prado de Azevedo
 
 
