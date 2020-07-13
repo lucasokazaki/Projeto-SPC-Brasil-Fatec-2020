@@ -1,5 +1,9 @@
 # Projeto-SPC-Brasil-Fatec-2020
 
+<p align="center">
+  <img src="https://github.com/HenriqueNawa/Projeto-SPC-Brasil-Fatec-2020/blob/master/Gif/fatec.jpg" />
+</p>
+
 **<H3>Disciplinas integradas: </H3>** 
 <ul>
   <li>Engenharia de Software - Profº Giuliano Araujo Bertoti</li>
